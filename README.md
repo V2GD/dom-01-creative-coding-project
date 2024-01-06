@@ -1,4 +1,5 @@
-# Final Canvas Sketch Project "Creative Coding: Making Visuals with JavaScript"
+# Dynamic Geometry
+## Final Canvas Sketch Project "Creative Coding: Making Visuals with JavaScript"
 
 ## Overview
 
